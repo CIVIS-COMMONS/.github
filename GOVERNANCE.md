@@ -43,4 +43,44 @@ Contributions should be evaluated according to documented project requirements a
 
 Contributors should receive appropriate attribution. Project licenses and contribution agreements, where applicable, govern the rights associated with contributed work.
 
-No contributor
+No contributor should be promised governance authority merely because they have contributed code, funding, or time.
+
+## 6. Responsible Evaluation
+
+Research, testing, and technical reviews should distinguish verified findings from assumptions, opinions, and unresolved questions.
+
+Reports should describe their scope, methods, limitations, and relevant conflicts of interest.
+
+CIVIS Commons should not claim that a project is secure, certified, or independently endorsed beyond what the available evidence supports.
+
+## 7. Privacy and Security
+
+CIVIS Commons should minimize unnecessary collection of personal information and protect information entrusted to it.
+
+Security reports should be handled responsibly, with appropriate care for affected users and maintainers.
+
+Public transparency should not require exposing private information, credentials, or exploitable vulnerabilities before they can be responsibly addressed.
+
+## 8. Conflicts of Interest
+
+Material conflicts of interest should be disclosed when they could affect project decisions, evaluations, or published findings.
+
+Commercial relationships should not be presented as independent evaluations.
+
+Where possible, review decisions should be separated from personal or financial incentives.
+
+## 9. Amendments
+
+This document may evolve as CIVIS Commons grows.
+
+Significant amendments should include a record of what changed, why it changed, and when the change took effect.
+
+Changes should preserve the organization's founding commitments while allowing practical governance to improve.
+
+## 10. Stewardship, Not Ownership of Intent
+
+CIVIS Commons seeks to preserve understanding without preventing change.
+
+Its responsibility is to steward the work entrusted to it, not to assume unlimited authority over contributors, communities, or independent projects.
+
+**Observe honestly. Distill carefully. Preserve faithfully. Reflect humbly. Return generously.**
